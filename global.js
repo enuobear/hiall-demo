@@ -1,4 +1,4 @@
 alert("ok");
 
-console.log(1);
+console.log(ok);
 
