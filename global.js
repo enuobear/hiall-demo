@@ -1,2 +1,2 @@
-alert(1);
+alert("ok");
 console.log(1);
